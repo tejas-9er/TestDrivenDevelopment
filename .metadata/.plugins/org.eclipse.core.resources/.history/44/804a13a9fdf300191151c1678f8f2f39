@@ -1,0 +1,16 @@
+package com.virtualpairprogrammers;
+
+import static org.junit.Assert.*;
+import org.mockito.Mockito.*;
+import org.junit.Test;
+
+public class RepaymentAmountTests {
+
+	@Test
+	public void test1YearLoanWholePounds() {
+		LoanApplication loanApplication = new LoanApplication();
+		loanApplication.setPrincipal(1200);
+		loanApplication.setTermInMonths(12);
+	}
+
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ValidateISBNTest" project="ISBNValidator" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="com.virtualpairprogrammers.isbntools.ValidateISBNTest" time="0.0">
+    <testcase name="nineDigitISBNsAreNotAllowed" classname="com.virtualpairprogrammers.isbntools.ValidateISBNTest" time="0.0"/>
+    <testcase name="checkAnInvalidISBN" classname="com.virtualpairprogrammers.isbntools.ValidateISBNTest" time="0.0"/>
+    <testcase name="checkAValidISBN" classname="com.virtualpairprogrammers.isbntools.ValidateISBNTest" time="0.0"/>
+    <testcase name="nonNumericISBNsAreNotAllowed" classname="com.virtualpairprogrammers.isbntools.ValidateISBNTest" time="0.0"/>
+  </testsuite>
+</testrun>
